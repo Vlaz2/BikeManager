@@ -1,0 +1,12 @@
+D:\Programs_new\BikeManager\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+D:\Programs_new\BikeManager\Services\bin\Debug\netcoreapp3.1\Services.dll
+D:\Programs_new\BikeManager\Services\bin\Debug\netcoreapp3.1\Services.pdb
+D:\Programs_new\BikeManager\Services\bin\Debug\netcoreapp3.1\DatabaseProvider.dll
+D:\Programs_new\BikeManager\Services\bin\Debug\netcoreapp3.1\DatabaseProvider.pdb
+D:\Programs_new\BikeManager\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+D:\Programs_new\BikeManager\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+D:\Programs_new\BikeManager\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+D:\Programs_new\BikeManager\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+D:\Programs_new\BikeManager\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+D:\Programs_new\BikeManager\Services\obj\Debug\netcoreapp3.1\Services.dll
+D:\Programs_new\BikeManager\Services\obj\Debug\netcoreapp3.1\Services.pdb
